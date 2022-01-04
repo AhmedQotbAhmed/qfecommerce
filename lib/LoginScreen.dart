@@ -68,7 +68,7 @@ class _LoginScreenState extends State<LoginScreen> {
             Align(alignment: Alignment.center,
               child: Container(
                   child: MaterialButton(onPressed: (){}
-                    ,child: Text('Dont have an account  sign up ?'),
+                    ,child: Text('Dont have an account, sign up ?'),
 
                   )
               ),
