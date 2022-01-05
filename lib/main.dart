@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
      debugShowCheckedModeBanner: false,
 
       home: AnimatedSplashScreen(
-      splash:Image.asset('assets/success.png'),
+      splash:Image.asset('assets/image/success.png'),
         splashIconSize: double.maxFinite,
         nextScreen: LoginScreen(),
         splashTransition: SplashTransition.sizeTransition,
